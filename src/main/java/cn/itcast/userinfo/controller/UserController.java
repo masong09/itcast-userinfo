@@ -24,7 +24,7 @@ public class UserController {
 		
 		User user = this.userService.queryUserById(id);
 		
-		System.out.println("1");
+		System.out.println("2");
 		return user;
 		
 		
