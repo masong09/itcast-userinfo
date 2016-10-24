@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import cn.itcast.userinfo.pojo.User;
 import cn.itcast.userinfo.service.UserService;
 
-//http://127.0.0.1/user/query/1
+
 @RequestMapping("user")
 @Controller
 public class UserController {
